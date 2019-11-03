@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## NOTICE
 
 This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition season.  
@@ -884,3 +885,10 @@ In this latest version of the FTC SDK (20150803_001) the following changes shoul
 
 T. Eng
 August 3, 2015
+=======
+# Skystone_2019
+
+Someone add something to read me so its actually a... "Read Me"
+Actually Just type your name if you see this message
+Matthew
+>>>>>>> remotes/origin/master
