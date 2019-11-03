@@ -52,10 +52,10 @@ public class TestHDrive extends OpMode {
          */
 
 
-        leftHDmotor = hardwareMap.dcMotor.get("leftHDmotor");
-        rightHDmotor = hardwareMap.dcMotor.get("rightHDmotor");
-        centerHDmotor = hardwareMap.dcMotor.get("centerHDmotor");
-        elvtorCmotor = hardwareMap.dcMotor.get("elvtorCmotor");
+        leftHDmotor = hardwareMap.dcMotor.get("Left_Motor");
+        rightHDmotor = hardwareMap.dcMotor.get("Right_Motor");
+        centerHDmotor = hardwareMap.dcMotor.get("Strafe_motor");
+        elvtorCmotor = hardwareMap.dcMotor.get("Lift_Motor");
 
         //motorFrontRight = hardwareMap.dcMotor.get("motor front right");
         //motorFrontLeft = hardwareMap.dcMotor.get("motor front left");
